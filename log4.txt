@@ -1,0 +1,3062 @@
+Program state: 1
+Output list:
+ 
+Execution stack:
+ String varf; varf=test.in; open file: varf; int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ String varf
+ varf=test.in; open file: varf; int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ String varf
+ varf=test.in; open file: varf; int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ varf=test.in; open file: varf; int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: 
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ varf=test.in; open file: varf; int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: 
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ varf=test.in
+ open file: varf; int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: 
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ varf=test.in
+ open file: varf; int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: 
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ open file: varf; int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ open file: varf; int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ open file: varf
+ int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ open file: varf
+ int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ 
+File table:
+ test.in: java.io.BufferedReader@108ee544
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ 
+File table:
+ test.in: java.io.BufferedReader@108ee544
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ int varc
+ Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ 
+File table:
+ test.in: java.io.BufferedReader@108ee544
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ int varc
+ Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ 
+File table:
+ test.in: java.io.BufferedReader@108ee544
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 0
+ 
+File table:
+ test.in: java.io.BufferedReader@108ee544
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 0
+ 
+File table:
+ test.in: java.io.BufferedReader@108ee544
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ Readfile: varf to varc
+ print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 0
+ 
+File table:
+ test.in: java.io.BufferedReader@108ee544
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ Readfile: varf to varc
+ print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 0
+ 
+File table:
+ test.in: java.io.BufferedReader@108ee544
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 15
+ 
+File table:
+ test.in: java.io.BufferedReader@108ee544
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 15
+ 
+File table:
+ test.in: java.io.BufferedReader@108ee544
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ print(varc)
+ Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 15
+ 
+File table:
+ test.in: java.io.BufferedReader@108ee544
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ print(varc)
+ Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 15
+ 
+File table:
+ test.in: java.io.BufferedReader@108ee544
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 15
+Execution stack:
+ Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 15
+ 
+File table:
+ test.in: java.io.BufferedReader@108ee544
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 15
+Execution stack:
+ Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 15
+ 
+File table:
+ test.in: java.io.BufferedReader@108ee544
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 15
+Execution stack:
+ Readfile: varf to varc
+ print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 15
+ 
+File table:
+ test.in: java.io.BufferedReader@108ee544
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 15
+Execution stack:
+ Readfile: varf to varc
+ print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 15
+ 
+File table:
+ test.in: java.io.BufferedReader@108ee544
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 15
+Execution stack:
+ print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 50
+ 
+File table:
+ test.in: java.io.BufferedReader@108ee544
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 15
+Execution stack:
+ print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 50
+ 
+File table:
+ test.in: java.io.BufferedReader@108ee544
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 15
+Execution stack:
+ print(varc)
+ close file: varf
+Symbol table:
+ varf: test.in
+ varc: 50
+ 
+File table:
+ test.in: java.io.BufferedReader@108ee544
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 15
+Execution stack:
+ print(varc)
+ close file: varf
+Symbol table:
+ varf: test.in
+ varc: 50
+ 
+File table:
+ test.in: java.io.BufferedReader@108ee544
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 15
+ 50
+Execution stack:
+ close file: varf
+Symbol table:
+ varf: test.in
+ varc: 50
+ 
+File table:
+ test.in: java.io.BufferedReader@108ee544
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 15
+ 50
+Execution stack:
+ close file: varf
+Symbol table:
+ varf: test.in
+ varc: 50
+ 
+File table:
+ test.in: java.io.BufferedReader@108ee544
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 15
+ 50
+Execution stack:
+ 
+Symbol table:
+ varf: test.in
+ varc: 50
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ String varf; varf=test.in; open file: varf; int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ String varf
+ varf=test.in; open file: varf; int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ String varf
+ varf=test.in; open file: varf; int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ varf=test.in; open file: varf; int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: 
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ varf=test.in; open file: varf; int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: 
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ varf=test.in
+ open file: varf; int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: 
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ varf=test.in
+ open file: varf; int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: 
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ open file: varf; int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ open file: varf; int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ open file: varf
+ int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ open file: varf
+ int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ 
+File table:
+ test.in: java.io.BufferedReader@619d0ef9
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ 
+File table:
+ test.in: java.io.BufferedReader@619d0ef9
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ int varc
+ Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ 
+File table:
+ test.in: java.io.BufferedReader@619d0ef9
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ int varc
+ Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ 
+File table:
+ test.in: java.io.BufferedReader@619d0ef9
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 0
+ 
+File table:
+ test.in: java.io.BufferedReader@619d0ef9
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 0
+ 
+File table:
+ test.in: java.io.BufferedReader@619d0ef9
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ Readfile: varf to varc
+ print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 0
+ 
+File table:
+ test.in: java.io.BufferedReader@619d0ef9
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ Readfile: varf to varc
+ print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 0
+ 
+File table:
+ test.in: java.io.BufferedReader@619d0ef9
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 15
+ 
+File table:
+ test.in: java.io.BufferedReader@619d0ef9
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 15
+ 
+File table:
+ test.in: java.io.BufferedReader@619d0ef9
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ print(varc)
+ Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 15
+ 
+File table:
+ test.in: java.io.BufferedReader@619d0ef9
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ print(varc)
+ Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 15
+ 
+File table:
+ test.in: java.io.BufferedReader@619d0ef9
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 15
+Execution stack:
+ Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 15
+ 
+File table:
+ test.in: java.io.BufferedReader@619d0ef9
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 15
+Execution stack:
+ Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 15
+ 
+File table:
+ test.in: java.io.BufferedReader@619d0ef9
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 15
+Execution stack:
+ Readfile: varf to varc
+ print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 15
+ 
+File table:
+ test.in: java.io.BufferedReader@619d0ef9
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 15
+Execution stack:
+ Readfile: varf to varc
+ print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 15
+ 
+File table:
+ test.in: java.io.BufferedReader@619d0ef9
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 15
+Execution stack:
+ print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 50
+ 
+File table:
+ test.in: java.io.BufferedReader@619d0ef9
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 15
+Execution stack:
+ print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 50
+ 
+File table:
+ test.in: java.io.BufferedReader@619d0ef9
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 15
+Execution stack:
+ print(varc)
+ close file: varf
+Symbol table:
+ varf: test.in
+ varc: 50
+ 
+File table:
+ test.in: java.io.BufferedReader@619d0ef9
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 15
+Execution stack:
+ print(varc)
+ close file: varf
+Symbol table:
+ varf: test.in
+ varc: 50
+ 
+File table:
+ test.in: java.io.BufferedReader@619d0ef9
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 15
+ 50
+Execution stack:
+ close file: varf
+Symbol table:
+ varf: test.in
+ varc: 50
+ 
+File table:
+ test.in: java.io.BufferedReader@619d0ef9
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 15
+ 50
+Execution stack:
+ close file: varf
+Symbol table:
+ varf: test.in
+ varc: 50
+ 
+File table:
+ test.in: java.io.BufferedReader@619d0ef9
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 15
+ 50
+Execution stack:
+ 
+Symbol table:
+ varf: test.in
+ varc: 50
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ String varf; varf=test.in; open file: varf; int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ String varf
+ varf=test.in; open file: varf; int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ String varf
+ varf=test.in; open file: varf; int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ varf=test.in; open file: varf; int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: 
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ varf=test.in; open file: varf; int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: 
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ varf=test.in
+ open file: varf; int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: 
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ varf=test.in
+ open file: varf; int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: 
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ open file: varf; int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ open file: varf; int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ open file: varf
+ int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ open file: varf
+ int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ 
+File table:
+ test.in: java.io.BufferedReader@5fbf10b2
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ 
+File table:
+ test.in: java.io.BufferedReader@5fbf10b2
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ int varc
+ Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ 
+File table:
+ test.in: java.io.BufferedReader@5fbf10b2
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ int varc
+ Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ 
+File table:
+ test.in: java.io.BufferedReader@5fbf10b2
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 0
+ 
+File table:
+ test.in: java.io.BufferedReader@5fbf10b2
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 0
+ 
+File table:
+ test.in: java.io.BufferedReader@5fbf10b2
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ Readfile: varf to varc
+ print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 0
+ 
+File table:
+ test.in: java.io.BufferedReader@5fbf10b2
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ Readfile: varf to varc
+ print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 0
+ 
+File table:
+ test.in: java.io.BufferedReader@5fbf10b2
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 15
+ 
+File table:
+ test.in: java.io.BufferedReader@5fbf10b2
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 15
+ 
+File table:
+ test.in: java.io.BufferedReader@5fbf10b2
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ print(varc)
+ Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 15
+ 
+File table:
+ test.in: java.io.BufferedReader@5fbf10b2
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ print(varc)
+ Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 15
+ 
+File table:
+ test.in: java.io.BufferedReader@5fbf10b2
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 15
+Execution stack:
+ Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 15
+ 
+File table:
+ test.in: java.io.BufferedReader@5fbf10b2
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 15
+Execution stack:
+ Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 15
+ 
+File table:
+ test.in: java.io.BufferedReader@5fbf10b2
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 15
+Execution stack:
+ Readfile: varf to varc
+ print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 15
+ 
+File table:
+ test.in: java.io.BufferedReader@5fbf10b2
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 15
+Execution stack:
+ Readfile: varf to varc
+ print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 15
+ 
+File table:
+ test.in: java.io.BufferedReader@5fbf10b2
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 15
+Execution stack:
+ print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 50
+ 
+File table:
+ test.in: java.io.BufferedReader@5fbf10b2
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 15
+Execution stack:
+ print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 50
+ 
+File table:
+ test.in: java.io.BufferedReader@5fbf10b2
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 15
+Execution stack:
+ print(varc)
+ close file: varf
+Symbol table:
+ varf: test.in
+ varc: 50
+ 
+File table:
+ test.in: java.io.BufferedReader@5fbf10b2
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 15
+Execution stack:
+ print(varc)
+ close file: varf
+Symbol table:
+ varf: test.in
+ varc: 50
+ 
+File table:
+ test.in: java.io.BufferedReader@5fbf10b2
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 15
+ 50
+Execution stack:
+ close file: varf
+Symbol table:
+ varf: test.in
+ varc: 50
+ 
+File table:
+ test.in: java.io.BufferedReader@5fbf10b2
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 15
+ 50
+Execution stack:
+ close file: varf
+Symbol table:
+ varf: test.in
+ varc: 50
+ 
+File table:
+ test.in: java.io.BufferedReader@5fbf10b2
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 15
+ 50
+Execution stack:
+ 
+Symbol table:
+ varf: test.in
+ varc: 50
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ String varf; varf=test.in; open file: varf; int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ String varf
+ varf=test.in; open file: varf; int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ String varf
+ varf=test.in; open file: varf; int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ varf=test.in; open file: varf; int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: 
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ varf=test.in; open file: varf; int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: 
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ varf=test.in
+ open file: varf; int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: 
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ varf=test.in
+ open file: varf; int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: 
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ open file: varf; int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ open file: varf; int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ open file: varf
+ int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ open file: varf
+ int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ 
+File table:
+ test.in: java.io.BufferedReader@63033776
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ 
+File table:
+ test.in: java.io.BufferedReader@63033776
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ int varc
+ Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ 
+File table:
+ test.in: java.io.BufferedReader@63033776
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ int varc
+ Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ 
+File table:
+ test.in: java.io.BufferedReader@63033776
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 0
+ 
+File table:
+ test.in: java.io.BufferedReader@63033776
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 0
+ 
+File table:
+ test.in: java.io.BufferedReader@63033776
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ Readfile: varf to varc
+ print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 0
+ 
+File table:
+ test.in: java.io.BufferedReader@63033776
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ Readfile: varf to varc
+ print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 0
+ 
+File table:
+ test.in: java.io.BufferedReader@63033776
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 15
+ 
+File table:
+ test.in: java.io.BufferedReader@63033776
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 15
+ 
+File table:
+ test.in: java.io.BufferedReader@63033776
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ print(varc)
+ Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 15
+ 
+File table:
+ test.in: java.io.BufferedReader@63033776
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ print(varc)
+ Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 15
+ 
+File table:
+ test.in: java.io.BufferedReader@63033776
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 15
+Execution stack:
+ Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 15
+ 
+File table:
+ test.in: java.io.BufferedReader@63033776
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 15
+Execution stack:
+ Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 15
+ 
+File table:
+ test.in: java.io.BufferedReader@63033776
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 15
+Execution stack:
+ Readfile: varf to varc
+ print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 15
+ 
+File table:
+ test.in: java.io.BufferedReader@63033776
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 15
+Execution stack:
+ Readfile: varf to varc
+ print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 15
+ 
+File table:
+ test.in: java.io.BufferedReader@63033776
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 15
+Execution stack:
+ print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 50
+ 
+File table:
+ test.in: java.io.BufferedReader@63033776
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 15
+Execution stack:
+ print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 50
+ 
+File table:
+ test.in: java.io.BufferedReader@63033776
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 15
+Execution stack:
+ print(varc)
+ close file: varf
+Symbol table:
+ varf: test.in
+ varc: 50
+ 
+File table:
+ test.in: java.io.BufferedReader@63033776
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 15
+Execution stack:
+ print(varc)
+ close file: varf
+Symbol table:
+ varf: test.in
+ varc: 50
+ 
+File table:
+ test.in: java.io.BufferedReader@63033776
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 15
+ 50
+Execution stack:
+ close file: varf
+Symbol table:
+ varf: test.in
+ varc: 50
+ 
+File table:
+ test.in: java.io.BufferedReader@63033776
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 15
+ 50
+Execution stack:
+ close file: varf
+Symbol table:
+ varf: test.in
+ varc: 50
+ 
+File table:
+ test.in: java.io.BufferedReader@63033776
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 15
+ 50
+Execution stack:
+ 
+Symbol table:
+ varf: test.in
+ varc: 50
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ String varf; varf=test.in; open file: varf; int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ String varf
+ varf=test.in; open file: varf; int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ String varf
+ varf=test.in; open file: varf; int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ varf=test.in; open file: varf; int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: 
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ varf=test.in; open file: varf; int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: 
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ varf=test.in
+ open file: varf; int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: 
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ varf=test.in
+ open file: varf; int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: 
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ open file: varf; int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ open file: varf; int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ open file: varf
+ int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ open file: varf
+ int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ 
+File table:
+ test.in: java.io.BufferedReader@39037cf6
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ 
+File table:
+ test.in: java.io.BufferedReader@39037cf6
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ int varc
+ Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ 
+File table:
+ test.in: java.io.BufferedReader@39037cf6
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ int varc
+ Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ 
+File table:
+ test.in: java.io.BufferedReader@39037cf6
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 0
+ 
+File table:
+ test.in: java.io.BufferedReader@39037cf6
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 0
+ 
+File table:
+ test.in: java.io.BufferedReader@39037cf6
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ Readfile: varf to varc
+ print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 0
+ 
+File table:
+ test.in: java.io.BufferedReader@39037cf6
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ Readfile: varf to varc
+ print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 0
+ 
+File table:
+ test.in: java.io.BufferedReader@39037cf6
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 15
+ 
+File table:
+ test.in: java.io.BufferedReader@39037cf6
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 15
+ 
+File table:
+ test.in: java.io.BufferedReader@39037cf6
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ print(varc)
+ Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 15
+ 
+File table:
+ test.in: java.io.BufferedReader@39037cf6
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ print(varc)
+ Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 15
+ 
+File table:
+ test.in: java.io.BufferedReader@39037cf6
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 15
+Execution stack:
+ Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 15
+ 
+File table:
+ test.in: java.io.BufferedReader@39037cf6
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 15
+Execution stack:
+ Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 15
+ 
+File table:
+ test.in: java.io.BufferedReader@39037cf6
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 15
+Execution stack:
+ Readfile: varf to varc
+ print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 15
+ 
+File table:
+ test.in: java.io.BufferedReader@39037cf6
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 15
+Execution stack:
+ Readfile: varf to varc
+ print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 15
+ 
+File table:
+ test.in: java.io.BufferedReader@39037cf6
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 15
+Execution stack:
+ print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 50
+ 
+File table:
+ test.in: java.io.BufferedReader@39037cf6
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 15
+Execution stack:
+ print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 50
+ 
+File table:
+ test.in: java.io.BufferedReader@39037cf6
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 15
+Execution stack:
+ print(varc)
+ close file: varf
+Symbol table:
+ varf: test.in
+ varc: 50
+ 
+File table:
+ test.in: java.io.BufferedReader@39037cf6
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 15
+Execution stack:
+ print(varc)
+ close file: varf
+Symbol table:
+ varf: test.in
+ varc: 50
+ 
+File table:
+ test.in: java.io.BufferedReader@39037cf6
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 15
+ 50
+Execution stack:
+ close file: varf
+Symbol table:
+ varf: test.in
+ varc: 50
+ 
+File table:
+ test.in: java.io.BufferedReader@39037cf6
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 15
+ 50
+Execution stack:
+ close file: varf
+Symbol table:
+ varf: test.in
+ varc: 50
+ 
+File table:
+ test.in: java.io.BufferedReader@39037cf6
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 15
+ 50
+Execution stack:
+ 
+Symbol table:
+ varf: test.in
+ varc: 50
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 3
+Output list:
+ 
+Execution stack:
+ String varf; varf=test.in; open file: varf; int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ 
+File table:
+ 
+Heap:
+ 
+Lock Table:
+ 
+--------------------------------------------------
+Program state: 3
+Output list:
+ 
+Execution stack:
+ String varf
+ varf=test.in; open file: varf; int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ 
+File table:
+ 
+Heap:
+ 
+Lock Table:
+ 
+--------------------------------------------------
+Program state: 3
+Output list:
+ 
+Execution stack:
+ String varf
+ varf=test.in; open file: varf; int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ 
+File table:
+ 
+Heap:
+ 
+Lock Table:
+ 
+--------------------------------------------------
+Program state: 3
+Output list:
+ 
+Execution stack:
+ varf=test.in; open file: varf; int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: 
+ 
+File table:
+ 
+Heap:
+ 
+Lock Table:
+ 
+--------------------------------------------------
+Program state: 3
+Output list:
+ 
+Execution stack:
+ varf=test.in; open file: varf; int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: 
+ 
+File table:
+ 
+Heap:
+ 
+Lock Table:
+ 
+--------------------------------------------------
+Program state: 3
+Output list:
+ 
+Execution stack:
+ varf=test.in
+ open file: varf; int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: 
+ 
+File table:
+ 
+Heap:
+ 
+Lock Table:
+ 
+--------------------------------------------------
+Program state: 3
+Output list:
+ 
+Execution stack:
+ varf=test.in
+ open file: varf; int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: 
+ 
+File table:
+ 
+Heap:
+ 
+Lock Table:
+ 
+--------------------------------------------------
+Program state: 3
+Output list:
+ 
+Execution stack:
+ open file: varf; int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ 
+File table:
+ 
+Heap:
+ 
+Lock Table:
+ 
+--------------------------------------------------
+Program state: 3
+Output list:
+ 
+Execution stack:
+ open file: varf; int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ 
+File table:
+ 
+Heap:
+ 
+Lock Table:
+ 
+--------------------------------------------------
+Program state: 3
+Output list:
+ 
+Execution stack:
+ open file: varf
+ int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ 
+File table:
+ 
+Heap:
+ 
+Lock Table:
+ 
+--------------------------------------------------
+Program state: 3
+Output list:
+ 
+Execution stack:
+ open file: varf
+ int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ 
+File table:
+ 
+Heap:
+ 
+Lock Table:
+ 
+--------------------------------------------------
+Program state: 3
+Output list:
+ 
+Execution stack:
+ int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ 
+File table:
+ test.in: java.io.BufferedReader@3c3b878b
+ 
+Heap:
+ 
+Lock Table:
+ 
+--------------------------------------------------
+Program state: 3
+Output list:
+ 
+Execution stack:
+ int varc; Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ 
+File table:
+ test.in: java.io.BufferedReader@3c3b878b
+ 
+Heap:
+ 
+Lock Table:
+ 
+--------------------------------------------------
+Program state: 3
+Output list:
+ 
+Execution stack:
+ int varc
+ Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ 
+File table:
+ test.in: java.io.BufferedReader@3c3b878b
+ 
+Heap:
+ 
+Lock Table:
+ 
+--------------------------------------------------
+Program state: 3
+Output list:
+ 
+Execution stack:
+ int varc
+ Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ 
+File table:
+ test.in: java.io.BufferedReader@3c3b878b
+ 
+Heap:
+ 
+Lock Table:
+ 
+--------------------------------------------------
+Program state: 3
+Output list:
+ 
+Execution stack:
+ Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 0
+ 
+File table:
+ test.in: java.io.BufferedReader@3c3b878b
+ 
+Heap:
+ 
+Lock Table:
+ 
+--------------------------------------------------
+Program state: 3
+Output list:
+ 
+Execution stack:
+ Readfile: varf to varc; print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 0
+ 
+File table:
+ test.in: java.io.BufferedReader@3c3b878b
+ 
+Heap:
+ 
+Lock Table:
+ 
+--------------------------------------------------
+Program state: 3
+Output list:
+ 
+Execution stack:
+ Readfile: varf to varc
+ print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 0
+ 
+File table:
+ test.in: java.io.BufferedReader@3c3b878b
+ 
+Heap:
+ 
+Lock Table:
+ 
+--------------------------------------------------
+Program state: 3
+Output list:
+ 
+Execution stack:
+ Readfile: varf to varc
+ print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 0
+ 
+File table:
+ test.in: java.io.BufferedReader@3c3b878b
+ 
+Heap:
+ 
+Lock Table:
+ 
+--------------------------------------------------
+Program state: 3
+Output list:
+ 
+Execution stack:
+ print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 15
+ 
+File table:
+ test.in: java.io.BufferedReader@3c3b878b
+ 
+Heap:
+ 
+Lock Table:
+ 
+--------------------------------------------------
+Program state: 3
+Output list:
+ 
+Execution stack:
+ print(varc); Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 15
+ 
+File table:
+ test.in: java.io.BufferedReader@3c3b878b
+ 
+Heap:
+ 
+Lock Table:
+ 
+--------------------------------------------------
+Program state: 3
+Output list:
+ 
+Execution stack:
+ print(varc)
+ Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 15
+ 
+File table:
+ test.in: java.io.BufferedReader@3c3b878b
+ 
+Heap:
+ 
+Lock Table:
+ 
+--------------------------------------------------
+Program state: 3
+Output list:
+ 
+Execution stack:
+ print(varc)
+ Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 15
+ 
+File table:
+ test.in: java.io.BufferedReader@3c3b878b
+ 
+Heap:
+ 
+Lock Table:
+ 
+--------------------------------------------------
+Program state: 3
+Output list:
+ 15
+Execution stack:
+ Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 15
+ 
+File table:
+ test.in: java.io.BufferedReader@3c3b878b
+ 
+Heap:
+ 
+Lock Table:
+ 
+--------------------------------------------------
+Program state: 3
+Output list:
+ 15
+Execution stack:
+ Readfile: varf to varc; print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 15
+ 
+File table:
+ test.in: java.io.BufferedReader@3c3b878b
+ 
+Heap:
+ 
+Lock Table:
+ 
+--------------------------------------------------
+Program state: 3
+Output list:
+ 15
+Execution stack:
+ Readfile: varf to varc
+ print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 15
+ 
+File table:
+ test.in: java.io.BufferedReader@3c3b878b
+ 
+Heap:
+ 
+Lock Table:
+ 
+--------------------------------------------------
+Program state: 3
+Output list:
+ 15
+Execution stack:
+ Readfile: varf to varc
+ print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 15
+ 
+File table:
+ test.in: java.io.BufferedReader@3c3b878b
+ 
+Heap:
+ 
+Lock Table:
+ 
+--------------------------------------------------
+Program state: 3
+Output list:
+ 15
+Execution stack:
+ print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 50
+ 
+File table:
+ test.in: java.io.BufferedReader@3c3b878b
+ 
+Heap:
+ 
+Lock Table:
+ 
+--------------------------------------------------
+Program state: 3
+Output list:
+ 15
+Execution stack:
+ print(varc); close file: varf
+Symbol table:
+ varf: test.in
+ varc: 50
+ 
+File table:
+ test.in: java.io.BufferedReader@3c3b878b
+ 
+Heap:
+ 
+Lock Table:
+ 
+--------------------------------------------------
+Program state: 3
+Output list:
+ 15
+Execution stack:
+ print(varc)
+ close file: varf
+Symbol table:
+ varf: test.in
+ varc: 50
+ 
+File table:
+ test.in: java.io.BufferedReader@3c3b878b
+ 
+Heap:
+ 
+Lock Table:
+ 
+--------------------------------------------------
+Program state: 3
+Output list:
+ 15
+Execution stack:
+ print(varc)
+ close file: varf
+Symbol table:
+ varf: test.in
+ varc: 50
+ 
+File table:
+ test.in: java.io.BufferedReader@3c3b878b
+ 
+Heap:
+ 
+Lock Table:
+ 
+--------------------------------------------------
+Program state: 3
+Output list:
+ 15
+ 50
+Execution stack:
+ close file: varf
+Symbol table:
+ varf: test.in
+ varc: 50
+ 
+File table:
+ test.in: java.io.BufferedReader@3c3b878b
+ 
+Heap:
+ 
+Lock Table:
+ 
+--------------------------------------------------
+Program state: 3
+Output list:
+ 15
+ 50
+Execution stack:
+ close file: varf
+Symbol table:
+ varf: test.in
+ varc: 50
+ 
+File table:
+ test.in: java.io.BufferedReader@3c3b878b
+ 
+Heap:
+ 
+Lock Table:
+ 
+--------------------------------------------------
+Program state: 3
+Output list:
+ 15
+ 50
+Execution stack:
+ 
+Symbol table:
+ varf: test.in
+ varc: 50
+ 
+File table:
+ 
+Heap:
+ 
+Lock Table:
+ 
+--------------------------------------------------

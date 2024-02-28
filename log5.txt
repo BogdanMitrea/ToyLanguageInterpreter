@@ -1,0 +1,48 @@
+Program state: 1
+Output list:
+ 
+Execution stack:
+ (IF(( 2 <= 3 )) THEN(print(10))ELSE(print(20)))
+Symbol table:
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ print(10)
+Symbol table:
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ print(10)
+Symbol table:
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 10
+Execution stack:
+ 
+Symbol table:
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------

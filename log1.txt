@@ -1,0 +1,818 @@
+Program state: 1
+Output list:
+ 
+Execution stack:
+ int v; v=2; print(v)
+Symbol table:
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ int v; v=2; print(v)
+Symbol table:
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ int v
+ v=2; print(v)
+Symbol table:
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ int v
+ v=2; print(v)
+Symbol table:
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ v=2; print(v)
+Symbol table:
+ v: 0
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ v=2; print(v)
+Symbol table:
+ v: 0
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ v=2
+ print(v)
+Symbol table:
+ v: 0
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ v=2
+ print(v)
+Symbol table:
+ v: 0
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ print(v)
+Symbol table:
+ v: 2
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ print(v)
+Symbol table:
+ v: 2
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 2
+Execution stack:
+ 
+Symbol table:
+ v: 2
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ int v; v=2; print(v)
+Symbol table:
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ int v
+ v=2; print(v)
+Symbol table:
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ int v
+ v=2; print(v)
+Symbol table:
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ v=2; print(v)
+Symbol table:
+ v: 0
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ v=2; print(v)
+Symbol table:
+ v: 0
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ v=2
+ print(v)
+Symbol table:
+ v: 0
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ v=2
+ print(v)
+Symbol table:
+ v: 0
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ print(v)
+Symbol table:
+ v: 2
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ print(v)
+Symbol table:
+ v: 2
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 2
+Execution stack:
+ 
+Symbol table:
+ v: 2
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ int v; v=2; print(v)
+Symbol table:
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ int v
+ v=2; print(v)
+Symbol table:
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ int v
+ v=2; print(v)
+Symbol table:
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ v=2; print(v)
+Symbol table:
+ v: 0
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ v=2; print(v)
+Symbol table:
+ v: 0
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ v=2
+ print(v)
+Symbol table:
+ v: 0
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ v=2
+ print(v)
+Symbol table:
+ v: 0
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ print(v)
+Symbol table:
+ v: 2
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ print(v)
+Symbol table:
+ v: 2
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 2
+Execution stack:
+ 
+Symbol table:
+ v: 2
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ int v; v=2; print(v)
+Symbol table:
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ int v
+ v=2; print(v)
+Symbol table:
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ int v
+ v=2; print(v)
+Symbol table:
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ v=2; print(v)
+Symbol table:
+ v: 0
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ v=2; print(v)
+Symbol table:
+ v: 0
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ v=2
+ print(v)
+Symbol table:
+ v: 0
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ v=2
+ print(v)
+Symbol table:
+ v: 0
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ print(v)
+Symbol table:
+ v: 2
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ print(v)
+Symbol table:
+ v: 2
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 2
+Execution stack:
+ 
+Symbol table:
+ v: 2
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ int v; v=2; print(v)
+Symbol table:
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ int v
+ v=2; print(v)
+Symbol table:
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ int v
+ v=2; print(v)
+Symbol table:
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ v=2; print(v)
+Symbol table:
+ v: 0
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ v=2; print(v)
+Symbol table:
+ v: 0
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ v=2
+ print(v)
+Symbol table:
+ v: 0
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ v=2
+ print(v)
+Symbol table:
+ v: 0
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ print(v)
+Symbol table:
+ v: 2
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ print(v)
+Symbol table:
+ v: 2
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 2
+Execution stack:
+ 
+Symbol table:
+ v: 2
+ 
+File table:
+ 
+Heap:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ int v; v=2; print(v)
+Symbol table:
+ 
+File table:
+ 
+Heap:
+ 
+Lock Table:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ int v
+ v=2; print(v)
+Symbol table:
+ 
+File table:
+ 
+Heap:
+ 
+Lock Table:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ int v
+ v=2; print(v)
+Symbol table:
+ 
+File table:
+ 
+Heap:
+ 
+Lock Table:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ v=2; print(v)
+Symbol table:
+ v: 0
+ 
+File table:
+ 
+Heap:
+ 
+Lock Table:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ v=2; print(v)
+Symbol table:
+ v: 0
+ 
+File table:
+ 
+Heap:
+ 
+Lock Table:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ v=2
+ print(v)
+Symbol table:
+ v: 0
+ 
+File table:
+ 
+Heap:
+ 
+Lock Table:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ v=2
+ print(v)
+Symbol table:
+ v: 0
+ 
+File table:
+ 
+Heap:
+ 
+Lock Table:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ print(v)
+Symbol table:
+ v: 2
+ 
+File table:
+ 
+Heap:
+ 
+Lock Table:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 
+Execution stack:
+ print(v)
+Symbol table:
+ v: 2
+ 
+File table:
+ 
+Heap:
+ 
+Lock Table:
+ 
+--------------------------------------------------
+Program state: 1
+Output list:
+ 2
+Execution stack:
+ 
+Symbol table:
+ v: 2
+ 
+File table:
+ 
+Heap:
+ 
+Lock Table:
+ 
+--------------------------------------------------

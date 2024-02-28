@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="GUI.ProgramRunLayout">
+   <children>
+      <AnchorPane layoutY="-1.0" prefHeight="400.0" prefWidth="600.0">
+         <children>
+            <TableView id="symboltable" fx:id="symboltable" layoutX="461.0" layoutY="242.0" prefHeight="144.0" prefWidth="132.0">
+              <columns>
+                <TableColumn fx:id="nameColumn" prefWidth="66.0" text="Name" />
+                <TableColumn fx:id="symbolvalueColumn" prefWidth="84.0" text="Value" />
+              </columns>
+            </TableView>
+            <ListView id="executionstack" fx:id="executionstack" layoutX="13.0" layoutY="44.0" prefHeight="144.0" prefWidth="151.0" />
+            <ListView id="outputlist" fx:id="outputlist" layoutX="436.0" layoutY="44.0" prefHeight="144.0" prefWidth="151.0" />
+            <ListView id="filetable" fx:id="filetable" layoutX="158.0" layoutY="242.0" prefHeight="144.0" prefWidth="69.0" />
+            <TableView id="heap" fx:id="heap" layoutX="14.0" layoutY="242.0" prefHeight="144.0" prefWidth="132.0">
+               <columns>
+                  <TableColumn fx:id="addressColumn" prefWidth="65.0" text="Address" />
+                  <TableColumn fx:id="valueColumn" prefWidth="85.0" text="Value" />
+               </columns>
+            </TableView>
+            <Label layoutX="40.0" layoutY="14.0" text="Execution Stack">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label layoutX="485.0" layoutY="213.0" text="Symbol Table">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label layoutX="477.0" layoutY="14.0" text="Output List">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label layoutX="163.0" layoutY="213.0" text="File Table">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label layoutX="64.0" layoutY="214.0" text="Heap">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label fx:id="donelabel" alignment="CENTER" layoutX="233.0" layoutY="171.0" text="" />
+            <Button layoutX="257.0" layoutY="91.0" mnemonicParsing="false" onAction="#OneStepPressed" text="Run one step" />
+            <ListView id="programstateslist" fx:id="programstateslist" layoutX="388.0" layoutY="242.0" onMouseClicked="#switchProgramState" prefHeight="144.0" prefWidth="59.0" />
+            <Label id="statesids" layoutX="377.0" layoutY="215.0" text="Program States" />
+            <Label layoutX="216.0" layoutY="36.0" text="Number of program states: " />
+            <TextField fx:id="statefield" layoutX="363.0" layoutY="32.0" prefHeight="17.0" prefWidth="21.0" text="1" />
+            <TableView fx:id="locktable" layoutX="233.0" layoutY="242.0" prefHeight="144.0" prefWidth="147.0">
+              <columns>
+                <TableColumn fx:id="varColumn" prefWidth="75.0" text="C1" />
+                <TableColumn fx:id="checklockColumn" prefWidth="75.0" text="C2" />
+              </columns>
+            </TableView>
+            <Label layoutX="278.0" layoutY="216.0" text="Lock Table" />
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>
